@@ -1,2 +1,2 @@
 # CV
-This is my Curriculum vitea. 
+The summary of my CV can be found in english and dutch.
